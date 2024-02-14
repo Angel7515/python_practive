@@ -1,0 +1,42 @@
+Bulletin of Mothemnticnl Biology Vol. 52, No. l/2. pp. 99-115. 1990. 
+Printed in Great Britain. oo92-824OjW$3.OO+O.MI 
+Pergamon Press plc 
+Society for Mathematical Biology 
+A LOGICAL CALCULUS OF THE IDEAS IMMANENT IN 
+NERVOUS ACTIVITY* 
+n WARREN S. MCCULLOCH AND WALTER PITTS 
+University of Illinois, College of Medicine, 
+Department of Psychiatry at the Illinois Neuropsychiatric Institute, 
+University of Chicago, Chicago, U.S.A. 
+Because of the “all-or-none” character of nervous activity, neural events and the relations among 
+them can be treated by means of propositional logic. It is found that the behavior of every net can 
+be described in these terms, with the addition of more complicated logical means for nets 
+containing circles; and that for any logical expression satisfying certain conditions, one can find a 
+net behaving in the fashion it describes. It is shown that many particular choices among possible 
+neurophysiological assumptions are equivalent, in the sense that for every net behaving under 
+one assumption, there exists another net which behaves under the other and gives the same 
+results, although perhaps not in the same time. Various applications of the calculus are 
+discussed. 
+1. Introduction. Theoretical neurophysiology rests on certain cardinal 
+assumptions. The nervous system is a net of neurons, each having a soma and 
+an axon. Their adjunctions, or synapses, are always between the axon of one 
+neuron and the soma of another. At any instant a neuron has some threshold, 
+which excitation must exceed to initiate an impulse. This, except for the fact 
+and the time of its occurence, is determined by the neuron, not by the 
+excitation. From the point of excitation the impulse is propagated to all parts of 
+the neuron. The velocity along the axon varies directly with its diameter, from 
+< 1 ms-’ in thin axons, which are usually short, to > 150 ms- ’ in thick axons, 
+which are usually long. The time for axonal conduction is consequently of little 
+importance in determining the time of arrival of impulses at points unequally 
+remote from the same source. Excitation across synapses occurs predominant- 
+ly from axonal terminations to somata. It is still a moot point whether this 
+depends upon irreciprocity of individual synapses or merely upon prevalent 
+anatomical configurations. To suppose the latter requires no hypothesis ad hoc 
+and explains known exceptions, but any assumption as to cause is compatible 
+with the calculus to come. No case is known in which excitation through a 
+single synapse has elicited a nervous impulse in any neuron, whereas any 
+neuron may be excited by impulses arriving at a sufficient number of 
+neighboring synapses within the period of latent addition, which lasts 
+~0.25 ms. Observed temporal summation of impulses at greater intervals 
+* Reprinted from the Bulletin of Mathematical Biophysics, Vol. 5, pp. 115-133 (1943). 
+99 
